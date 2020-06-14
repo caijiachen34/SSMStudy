@@ -1,0 +1,4 @@
+# Project exclude paths
+/ch01-hello-springmvc/target/
+/ch02-requestmapping/target/
+/ch03-recevieparam/target/
